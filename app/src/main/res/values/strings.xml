@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Kviz</string>
+    <string name="dugme_tacno">Тачно</string>
+    <string name="dugme_netacno">Нетачно</string>
+    <string name="dugme_prethodno">Претходно</string>
+    <string name="dugme_sledece">Следеће</string>
+    <string name="tacno_toast">Тачно!</string>
+    <string name="netacno_toast">Нетачно!</string>
+
+    <string name="pitanje_kotlin">Котлин је подразумевани језик за Андроид.</string>
+    <string name="pitanje_java">Јава није добила име по острву.</string>
+    <string name="pitanje_c">Пре језика Ц, постојао је и језик Б.</string>
+    <string name="pitanje_pajton">Пајтон је добио име по животињи.</string>
+    <string name="pitanje_javascript">ЈаваСкрипт је блиско везана за језик Јава.</string>
+    <string name="pitanje_cplusplus">Име C++ значи \'инкрементирани C\'.</string>
+</resources>
